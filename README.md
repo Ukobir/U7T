@@ -9,6 +9,8 @@ empregam potenciômetros. Contudo, é necessária calibração prévia para maio
 Esses controles são geralmente utilizados em diversas máquinas, como: drones, cadeiras
 elétricas, equipamentos médicos, videogames e brinquedos.
 
+O documento completo deste projeto encontra-se na pasta doc.
+
 ## Pré-requesitos
 - VS Code 
 - Pico sdk
@@ -22,4 +24,4 @@ elétricas, equipamentos médicos, videogames e brinquedos.
 3. Faça o Upload para a placa Bitdoglab.
 
 ## Vídeo Demonstrativo
-[Link do Video no Google Drive]
+[Link do Video no Google Drive](https://drive.google.com/file/d/1dY43hCa4c8JGfUE1-WWdBwGlsPr2vOH9/view?usp=drive_link)
